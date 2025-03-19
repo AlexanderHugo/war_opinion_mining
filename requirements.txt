@@ -1,0 +1,17 @@
+pandas
+pymongo
+praw
+pika
+huggingface_hub
+scikit-learn
+beautifulsoup4
+nltk
+seaborn
+numpy
+matplotlib
+wordcloud
+gensim
+networkx
+streamlit
+pyvis
+plotly
